@@ -13,6 +13,16 @@
 #	Blog: https://oo0.bid
 #====================================================
 
+#----------------------------------------------------
+#	<mrxueyuan.hj@gmail.com>
+#	System Request:Centos 7+, Debian 8+, Ubuntu 18.04+ ......
+#	Author:Mr_xueyuan
+#	->  Website LCSP { Linux + Caddy + SQLite + PHP }
+#	->  Update version & Multi-system optimization
+#	->  Open source address:https://github.com/MrXueyuan/Onekey_Caddy_PHP7_Sqlite3
+#	Blog:https://xueyuan.tech
+#----------------------------------------------------
+
 #定义文字颜色
 Green="\033[32m"
 Red="\033[31m"
@@ -27,7 +37,7 @@ Error="${Red}[错误]${Font}"
 
 #定义配置文件路径
 Default_dir(){
-conf_dir="/etc/dylanbai8"
+conf_dir="/etc/LCSP"
 }
 
 Default_caddy(){
